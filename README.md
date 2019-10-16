@@ -1,3 +1,11 @@
+# Installation
+1. Download the repo
+2. Run one of the installation scripts
+    - `install_win.bat` for Windows
+    - `install_unix.sh` for Unix systems
+
+This will create a python virtual environment and install the required packages (in `requirements.txt`).
+
 # Reference
 This website is based on a github repo available [here](https://github.com/jeremyrchow/Harassment-Classifier-App). See below the description of the original referenced project.
 

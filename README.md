@@ -6,6 +6,14 @@
 
 This will create a python virtual environment and install the required packages (in `requirements.txt`).
 
+# Usage
+To run the website, execute the `predictor_app.py` file by navigating into its directory and running the following command.
+```bash
+$ python predictor_app.py
+```
+
+I am not currently sure if you do need to activate the virtual environment created during the installation step above.
+
 # Reference
 This website is based on a github repo available [here](https://github.com/jeremyrchow/Harassment-Classifier-App). See below the description of the original referenced project.
 
